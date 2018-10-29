@@ -4,7 +4,7 @@
   Steam Desktop Authenticator
 </h1>
 <p align="center">
-  A desktop implementation of Steam's mobile authenticator app.<br/>
+  A desktop implementation of Steam's mobile authenticator apps.<br/>
   <sup><b>We are not affiliated with Steam or Scrap.TF in any way!</b> This project is run by community volunteers.
 </p>
 <h3 align="center">
