@@ -1,7 +1,7 @@
 <h1 align="center">
   <img  src="https://raw.githubusercontent.com/Jessecar96/SteamDesktopAuthenticator/master/icon.png" height="64" width="64" />
   <br/>
-  Steam Desktop Authenticator
+  Steam Desktop Authenticators
 </h1>
 <p align="center">
   A desktop implementation of Steam's mobile authenticator app.<br/>
